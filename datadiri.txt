@@ -2,3 +2,5 @@ Nama      : Nur Inayah Yusuf
 NIM       : 1829140001
 Kelas     : Tekom B
 Kota Asal : Makassar
+Jenis Kelamin : Perempuan
+Asal Sekolah : SMAN 11 Makassar
